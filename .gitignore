@@ -1,0 +1,6 @@
+.terraform/
+.env/
+.venv/
+.lesson-4/
+.lesson-5/
+.lesson-7/
